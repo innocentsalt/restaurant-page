@@ -18,8 +18,9 @@
 .tab {
   cursor: pointer;
   text-transform: capitalize;
+  padding: 10px;
 }
 
 .selected {
-  border-bottom: 2px solid black;
+  background-color: lightgrey;
 }
